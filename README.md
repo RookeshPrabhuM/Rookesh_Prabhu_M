@@ -1,4 +1,3 @@
-[![MasterHead](https://www.iroidtechnologies.com/static/home/images/service/sub-images/2042586312-special-programming-language-computing-platform-ad_81534-2981.jpg)](https://rookeshprabhu_m.io)
 <h1 align="center">Hi 👋, I'm Rookesh Prabhu M</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*nh1DKDKry7NS7mnTX1fe6g.jpeg">
